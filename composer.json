@@ -1,0 +1,12 @@
+{
+    "name": "veli/webapps",
+    "description": "Php Web Project",
+    "type": "project",
+    "require": {
+        "izniburak/router": "^1",
+        "catfan/medoo": "^1.7",
+        "jenssegers/blade": "^1.2"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
