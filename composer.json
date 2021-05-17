@@ -1,5 +1,5 @@
 {
-    "name": "velix/webapps",
+    "name": "veli/webapps",
     "description": "Php Web Project",
     "type": "framework",
     "require": {
@@ -7,7 +7,7 @@
         "catfan/medoo": "^1.7",
         "jenssegers/blade": "^1.2"
     },
-    "license": "MIT",
+    "license": "MIT"
     "minimum-stability": "stable",
     "prefer-stable" : true
      "A": "dev-master",
