@@ -8,7 +8,7 @@
         "jenssegers/blade": "^1.2"
     },
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable" : true
     
 }
