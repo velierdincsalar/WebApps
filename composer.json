@@ -10,5 +10,6 @@
     "license": "MIT",
     "minimum-stability": "stable",
     "prefer-stable" : true
-    
+     "A": "dev-master",
+        "B": "@dev"
 }
