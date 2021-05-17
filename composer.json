@@ -1,7 +1,7 @@
 {
-    "name": "veli/webapps",
+    "name": "velix/webapps",
     "description": "Php Web Project",
-    "type": "project",
+    "type": "framework",
     "require": {
         "izniburak/router": "^1",
         "catfan/medoo": "^1.7",
