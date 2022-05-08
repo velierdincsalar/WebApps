@@ -3,7 +3,7 @@
     "description": "Php Web Project",
     "type": "project",
     "require": {
-        "izniburak/router": "^1",
+        "izniburak/router": "^2.0",
         "catfan/medoo": "^1.7",
         "jenssegers/blade": "^1.2"
     },
