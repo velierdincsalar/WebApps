@@ -1,7 +1,7 @@
 <?php
 
 
-require '../vendorxxxxx/autoload.php';
+require '../xxxxxvendorxxxxx/autoload.php';
 require '../libs/Controller.php';
 require '../libs/Config.php';
 require '../libs/Database.php';
